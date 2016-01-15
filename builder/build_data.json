@@ -1,5 +1,5 @@
 {
-  "build_hash": "e8e0d461cc44800af15d879d18b2b7e2",
+  "build_hash": "55ef8993923c74fc1aa70f5217046392",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -419,6 +419,10 @@
     {
       "code": "0xf3aa",
       "name": "android-restaurant"
+    },
+    {
+      "code": "0xf4fa",
+      "name": "android-run"
     },
     {
       "code": "0xf3ab",
@@ -2655,6 +2659,14 @@
     {
       "code": "0xf2b0",
       "name": "social-pinterest-outline"
+    },
+    {
+      "code": "0xf4f8",
+      "name": "social-pound"
+    },
+    {
+      "code": "0xf4f9",
+      "name": "social-pound-outline"
     },
     {
       "code": "0xf4e9",
